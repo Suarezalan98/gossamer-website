@@ -107,22 +107,22 @@ $dark-gray: #7a7a7a;
   // font-size: 16px;
 }
 
-.toggle {
-  position: relative;
-  width: 60px;
-  height: 60px;
-  background: url(../assets/menu.png);
-  background-repeat: no-repeat;
-  background-size: 30px;
-  background-position: center;
-  cursor: pointer;
-}
-.toggle.active {
-  background: url(../assets/close.png);
-  background-repeat: no-repeat;
-  background-size: 25px;
-  background-position: center;
-}
+// .toggle {
+//   position: relative;
+//   width: 60px;
+//   height: 60px;
+//   background: url(../assets/menu.png);
+//   background-repeat: no-repeat;
+//   background-size: 30px;
+//   background-position: center;
+//   cursor: pointer;
+// }
+// .toggle.active {
+//   background: url(../assets/close.png);
+//   background-repeat: no-repeat;
+//   background-size: 25px;
+//   background-position: center;
+// }
 
 .homepage video {
   position: absolute;
